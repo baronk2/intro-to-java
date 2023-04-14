@@ -1,0 +1,1 @@
+write a method called nummWords that takes a String as a parameter and that returns the number of words in the String. By definition words are separated by one or more spaces. The table below shows several sample calls and the value that should be returned.
